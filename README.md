@@ -1,3 +1,7 @@
+## Parcours français
+
+Un parcours pédagogique en français présente Nimbus, la Beacon Chain, l’état consensus, la synchronisation, les attestations, le fork choice et la finalité. Voir [docs/fr/README.md](docs/fr/README.md).
+
 # Nimbus Eth2 (Beacon Chain)
 
 [![Github Actions CI](https://github.com/status-im/nimbus-eth2/actions/workflows/ci.yml/badge.svg?branch=stable)](https://github.com/status-im/nimbus-eth2/actions/workflows/ci.yml?query=branch%3Astable)
